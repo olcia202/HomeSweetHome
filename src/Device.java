@@ -5,6 +5,5 @@ public interface Device {
 	
 	public void on();
 	
-	
 
 }
